@@ -1,0 +1,20 @@
+{
+    "Author": "Charles Joy [MSFT]",
+    "ContentSize": 8120,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-new-azure-vm-endpoint/master/New-AzureVMEndpoint.ps1",
+    "DownloadCount": 2196,
+    "Id": "Create-New-Azure-VM-4d8b17b7",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 379,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-6-18T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook creates a simple new Stand-Alone Azure Endpoint for a specified Virtual Machine.",
+    "Title": "Create New Azure VM Endpoint",
+    "UpdatedDate": "2014-10-17T00:00:00",
+    "Url": "https://github.com/azureautomation/create-new-azure-vm-endpoint",
+    "UserTags": "Microsoft Azure, Utility, Building Clouds"
+}
